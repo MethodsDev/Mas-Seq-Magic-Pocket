@@ -1,7 +1,8 @@
-# Mas-Seq-Magic-Pocket
-Welcome to the Mas-Seq-Magic-Pocket repository! Here, you will find a magical collection of computational tools and 
-analysis methods for working with Mas-Iso-Seq data. Mas-Iso-Seq is a powerful sequencing technique that enables 
-researchers to measure the expression of isoforms at the single-cell level. The tools in this repository are designed 
-to help you process, visualize, and interpret your Mas-Iso-Seq data with ease and a bit of magic. Whether you are a 
-seasoned bioinformatician or a newcomer to the field, we hope that these tools will be a valuable resource for your 
-research. Happy analyzing!
+# MasSeqViz
+MasSeqViz is a powerful tool for visualizing and analyzing isoform expression data generated using 
+Mas-Iso-Seq. With MasSeqViz, researchers can explore and compare isoform expression levels 
+across different samples and conditions, identify patterns and trends in the data, and gain a deeper 
+understanding of the functional impact of context-specific post-transcriptional regulation. Whether 
+you are working with bulk or single-cell isoform data, MasSeqViz provides an straightforward solution
+for visualizing and interpreting your results. MasSeqViz aim to help researchers using 
+Mas-Iso-Seq to study isoform expression and post-transcriptional regulation in their experiments.
