@@ -1,7 +1,7 @@
 from itertools import groupby
 from typing import Dict, List, Tuple
 
-import matplotlib.pylab as plt
+import matplotlib.pyplot as plt
 import numpy as np
 
 
