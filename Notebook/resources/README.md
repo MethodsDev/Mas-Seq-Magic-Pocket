@@ -14,5 +14,5 @@
       - gs://mdl-data/mas-seq-paper-data/resources/gencode.v37.annotation.gs_to_gid_map.pkl
 
 # TO DO
-Parse input files from cloud [directly](https://github.com/pysam-developers/pysam/issues/592). 
-- This approach will save a lot of memory requirements. 
+Parse input files from cloud [directly](https://github.com/pysam-developers/pysam/issues/592).
+- This approach will save a lot of memory requirements.
